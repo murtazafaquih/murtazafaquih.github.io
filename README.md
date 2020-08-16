@@ -1,3 +1,4 @@
 # murtazafaquih.github.io
 
-My name is Murtaza.
+Hello there!
+My name is Murtaza Faquih.
